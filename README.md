@@ -1,24 +1,15 @@
-# README
+# Rails 5 Contact Form Demo
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+How to build a contact form with Rails 5.
 
-Things you may want to cover:
+- download the repo
+- bundle install
+- bin/rails test
+- bin/rails server
+- visit http://localhost:3000/contact-me
 
-* Ruby version
+Read the accompanying blog post series:
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- [Build a Contact Form with Ruby on Rails (part 1)](https://www.murdo.ch/blog/build-a-contact-form-with-ruby-on-rails-part-1)
+- [Build a Contact Form with Ruby on Rails (part 2)](https://www.murdo.ch/blog/build-a-contact-form-with-ruby-on-rails-part-2)
+- [Build a Contact Form with Ruby on Rails (part 3)](https://www.murdo.ch/blog/build-a-contact-form-with-ruby-on-rails-part-3)
